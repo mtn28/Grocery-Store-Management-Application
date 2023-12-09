@@ -1,0 +1,7 @@
+1;Artur Nunes;Conservas;Atum;0,89;16;2;1,78
+15;João Batista;Snacks;Pringels;2,78;10;1;1,99
+16;Carolina Macedo;Legumes;Cenoura;0,99;6;2;1,88
+4;Nuno Pinha;Refrigerantes;7up;1,4;15;5;5,5
+3;José Manuel;fruta;Kiwi;0,90;20;2;5,5
+5;Simão Barbosa;Legumes;Bróculos;2,44;10;1;1,99
+9;Lúis Ventura;Conservas;Sardinha;0,98;4;5;4,95

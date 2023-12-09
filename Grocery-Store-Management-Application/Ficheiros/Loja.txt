@@ -1,0 +1,28 @@
+Conservas
+	1;Salsichas;3,42;und;9
+	2;Atum;0,89;und;18
+	3;Feijão;0,96;und;6
+	4;Sardinha;0,98;und;4
+----------------------------------------------
+Refrigerantes
+	5;CocaCola;1,2;und;13
+	6;7up;1,4;und;16
+	7;Sumol;1,4und;7
+----------------------------------------------
+Legumes
+	8;Picles;658,90;kg;1
+	9;Beringela;1,52;kg;11
+	10;Cenoura;0,99;kg;16
+	11;Bróculos;2,44;kg;7
+----------------------------------------------
+Fruta
+	12;Kiwi;0,90;kg;20
+	13;Frambuesa;3,90;kg;41
+	14;Abacaxi;1,73;kg;11
+	15;Uva;4,00;kg;58
+----------------------------------------------
+Snacks
+	16;Pringels;2,78;und;21
+	17;Amendoins;0,94;und;6
+	18;Chetoos;0,83;und;46
+----------------------------------------------

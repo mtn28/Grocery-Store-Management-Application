@@ -1,0 +1,28 @@
+Vila Real
+	1;Artur Nunes;VilaReal;30876895
+	2;Carlos Teixeira;VilaReal;30913401
+	3;José Manuel;VilaReal;130721003
+----------------------------------------------
+Aveiro
+	4;Nuno Pinha;Aveiro;30870423
+	5;Simão Barbosa;Aveiro;30930104
+	6;Bruno Lopes;Aveiro;30856209
+	7;António Mesquita;Aveiro;30450617
+----------------------------------------------
+Porto
+	8;Bruno Lopes;Porto;30640802
+	9;Lúis Ventura;Porto;30231103
+	10;Jacinto Pinto;Porto;30030602
+	11;Alfredo Costa;Porto;30055802
+----------------------------------------------
+Lisboa
+	12;Magdalena Peixoto;Lisboa;30731229
+	13;Diana Azevedo;Lisboa;30021225
+	14;Rafael Leão;Lisboa;30990929
+	15;João Batista;Lisboa;30000412
+----------------------------------------------
+Portimão
+	16;Carolina Macedo;Portimão;29090525
+	17;Maria Costa;Portimão;29650911
+	19;Teresa Cunha;Portimão;29950205
+----------------------------------------------
